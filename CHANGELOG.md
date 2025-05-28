@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Added a comment explaining the example in more detail.
+
 ## 1.0.1
 
 - Added an example.
