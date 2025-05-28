@@ -4,6 +4,7 @@ repository: https://github.com/bvoq/download_transformer
 version: 1.0.0
 
 environment:
+  # support for asset transformers started with 3.7.0
   sdk: ">=3.7.0"
 
 dependencies:
