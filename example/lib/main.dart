@@ -1,3 +1,5 @@
+// Note, the example doesn't make much sense without looking at example/pubspec.yaml.
+
 import 'package:flutter/material.dart';
 
 void main() {
