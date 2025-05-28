@@ -1,0 +1,14 @@
+name: download_transformer
+description: A dart transformer for downloading assets. This is useful, if you don't have to check in large assets or want to pull assets from a directory shared with non-programmers.
+repository: https://github.com/bvoq/download_transformer
+version: 1.0.0
+
+environment:
+  sdk: ">=3.7.0"
+
+dependencies:
+  args: ">=2.4.2"
+  http: ">=1.0.0"
+
+dev_dependencies:
+  test: ">=1.24.0"
