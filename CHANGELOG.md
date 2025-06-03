@@ -1,3 +1,7 @@
+## 1.0.3
+
+- Added some information on how to download entire asset folders.
+
 ## 1.0.2
 
 - Added a comment explaining the example in more detail.
