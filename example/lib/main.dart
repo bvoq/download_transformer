@@ -18,9 +18,9 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Image.asset(
-            'assets/texture_atlas.png',
-            width: 200,
-            height: 200,
+            'assets/texture_sample.png',
+            width: 600,
+            height: 600,
           ),
         ),
       ),

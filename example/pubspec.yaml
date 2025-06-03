@@ -16,6 +16,9 @@ dev_dependencies:
 
 flutter:
   assets:
-    - path: assets/texture_atlas.png
+    - path: assets/texture_sample.png
+      transformers:
+        - package: download_transformer
+    - path: assets/to_download/
       transformers:
         - package: download_transformer
